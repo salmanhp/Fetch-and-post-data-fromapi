@@ -56,6 +56,7 @@ const FormControl = () => {
     // const geos = data.filter(geo => geo.id === inputVal.id)[0];
     // console.log(geos);
     // console.log(inputVal.id);
+    // console.log(inputVal.id);
 
 
 
